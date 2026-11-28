@@ -1,0 +1,1 @@
+These are my Harvard freshman coding projects for 2026. So far I have received 100% on all of them. Along with my great my friends who also recieved very great mark's. Scratch is a fun tool for coding, thanks MIT!
