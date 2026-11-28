@@ -1,0 +1,8 @@
+# Prompt for input to change case to lwr A case function,
+
+text = input("", ).lower()
+
+#.lower()response=input
+# Make input lowercase with a funct
+# And print the lowercase text variable outputs "respon
+print(f"{text}")
